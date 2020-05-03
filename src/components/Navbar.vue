@@ -7,11 +7,6 @@
                       <router-link :to="{name: 'Home' }">Vue To-do</router-link>
                   </h4>
               </div>
-              <div class="row">
-                  <form class="form-inline mx-auto my-4">
-                      <input type="text" name="search" class="form-control mb-2 mr-sm-2" id="search" placeholder="Type something to search ...">
-                  </form>
-              </div>
           </div>
       </div>
   </div>
